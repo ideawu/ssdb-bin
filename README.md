@@ -12,3 +12,10 @@ SSDB pre-compiled executable binary for Windows.
 5. Run ssdb-server.exe ssdb.conf
  
 Now the ssdb-server is started on Windows, connect to it with PHP, Python, Java, etc...
+
+# SSDB on Windows without cygwin
+
+https://github.com/RelicOfTesla/ssdb
+
+
+
